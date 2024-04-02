@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "file": "./style-index.css",
+  "mappings": ";;;AAEA;EACE;EACA,mBAJM;EAKN;AADF,C",
+  "sources": [
+    "webpack://ctablock/./src/style.scss"
+  ],
+  "sourcesContent": [
+    "$color: #f9f9f9;\n\n.wp-block-genius-ctablock {\n  font-size: 100px;\n  background: $color;\n  border: 1px solid red;\n}\n"
+  ],
+  "names": [],
+  "sourceRoot": ""
+}
